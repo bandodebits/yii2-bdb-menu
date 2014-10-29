@@ -10,9 +10,6 @@
             "email": "developer@bandodebits.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "bdb\\menu\\": ""
