@@ -1,0 +1,21 @@
+{
+    "name": "bandodebits/yii2-bdb-menu",
+    "description": "Menu para o Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "bandodebits",
+            "email": "developer@bandodebits.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bdb\\menu\\": ""
+        }
+    }
+}
