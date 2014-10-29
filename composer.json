@@ -2,7 +2,7 @@
     "name": "bandodebits/yii2-bdb-menu",
     "description": "Menu para o Yii2",
     "type": "yii2-extension",
-    "minimum-stability": "dev",
+    "minimum-stability": "@dev",
     "keywords": ["yii2","extension"],
     "license": "GPL-3.0+",
     "authors": [
